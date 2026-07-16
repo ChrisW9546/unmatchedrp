@@ -2,9 +2,9 @@
 
 Below are the most common Rule Breaks you will come up against in your time within Staff. Please familiarise yourself with them. There will be circumstances that a First Offence may have to be escalated beyond what it says on the chart below, likewise there may be circumstances that it says ban but we may look to change to something else.&#x20;
 
+If there is an instance where there is multiple rule breaks in the one ticket, please check with your Manager before proceeding as this could end in more than an Educational Warning or Official Warning.
 
-
-Management has the right to escalate a decision higher than it was or drop it lower than has been given at any time aslong as the evidence is there to support and Management are in agreement.
+Management has the right to escalate a decision higher than it was or drop it lower than has been given at any time as long as the evidence is there to support and Management are in agreement.
 
 
 
