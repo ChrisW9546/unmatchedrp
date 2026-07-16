@@ -17,7 +17,3 @@ Below are your current Heads of each Department, they will be responsible for lo
 **Head of Gang Team** - Marcus
 
 **Head of Social & Media Team** - Ricky
-
-**Assistant Head of Staff** - Bobby
-
-**Head of Staff** - Kizza
