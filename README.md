@@ -1,12 +1,23 @@
-# Unmatched RP Staff Handbook
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
 
-Welcome to the official Unmatched RP Staff Handbook.
+# Welcome to Unmatched RP Staff Team
 
-## Contents
-
-* Introduction to Staff
-* Staff Code of Conduct
-* Staff Responsibilities
-* Handling Reports
-* Warning System
-* Punishment Guidelines

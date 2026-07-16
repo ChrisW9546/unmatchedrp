@@ -1,4 +1,4 @@
-# Introduction
+# Introduction to Staff
 
 Welcome to the **Unmatched RP Staff Team**.
 
@@ -6,9 +6,9 @@ As a staff member you represent the face of Unmatched RP. You are expected to ac
 
 ## Staff Expectations
 
-- Be professional.
-- Treat everyone equally.
-- Apply punishments consistently.
-- Avoid bias.
-- Protect confidential information.
-- Represent Unmatched RP positively.
+* Be professional.
+* Treat everyone equally.
+* Follow the correct Punishment Guides.
+* Avoid bias.
+* Protect confidential information.
+* Represent Unmatched RP positively.
