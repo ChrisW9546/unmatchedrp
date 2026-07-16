@@ -14,7 +14,7 @@ Official Warning (Logged as a Warning on Cosmo, Notes added & Mod Proof Complete
 
 ## Stage 4
 
-7 Day Ban (Logged as a Ban on Cosmo, Notes added, Mod Proof Completed & Banned Role Applied)
+7 Day Ban (Authorized by Management) (Logged as a Ban on Cosmo, Notes added, Mod Proof Completed & Banned Role Applied)
 
 ## Stage 5
 
