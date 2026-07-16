@@ -10,6 +10,7 @@
 * [Departments](departments/README.md)
   * [Department Heads](departments/department-heads.md)
   * [Departmental Escalation Process](departments/departmental-escalation-process.md)
+  * [Escalation Beyond Management](departments/escalation-beyond-management.md)
 * [Staff Training](staff-training.md)
 * [Handling Reports](handling-reports/README.md)
   * [Documentation Needed](handling-reports/documentation-needed.md)
