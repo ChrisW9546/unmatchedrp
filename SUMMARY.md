@@ -8,6 +8,7 @@
   * [Suspension & Removal](readme/suspension-and-removal.md)
   * [Promotion Process](readme/promotion-process.md)
 * [Departments](departments/README.md)
+  * [Departments Duties](departments/departments-duties.md)
   * [Department Heads](departments/department-heads.md)
   * [Departmental Escalation Process](departments/departmental-escalation-process.md)
   * [Escalation Beyond Management](departments/escalation-beyond-management.md)
