@@ -1,6 +1,6 @@
 # Departmental Escalation Process
 
-Within the department you are in there is a correct escalation process if things are looking looked at  or you need help with things. This does not need to go straight to management every time.
+Within the department you are in there is a correct escalation process if things are needing looked at or you need help with things. This does not need to go straight to management every time.
 
 Each Department has a Team Leader who is there to be able to help you and assist with any issues you may have. Below is the current list of Team Leaders within the Departments -
 
