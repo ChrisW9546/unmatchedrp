@@ -1,5 +1,7 @@
 # Department Heads
 
+Below are your current Heads of each Department, they will be responsible for looking after the teams they have. This includes but is not limited to Training, Reviews, Welfare Checks, Help & Support -
+
 **Head of Moderation Team** - Chloe
 
 **Head of Player Experience Team** - Megamind (Jake)
