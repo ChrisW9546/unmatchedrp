@@ -7,6 +7,7 @@
   * [Staff Responsibilities](readme/responsibilities.md)
   * [Suspension & Removal](readme/suspension-and-removal.md)
   * [Promotion Process](readme/promotion-process.md)
+* [Staff Training](staff-training.md)
 * [Handling Reports](handling-reports/README.md)
   * [Documentation Needed](handling-reports/documentation-needed.md)
   * [Punishment Stages](handling-reports/warning-system.md)
